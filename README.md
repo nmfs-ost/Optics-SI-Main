@@ -1,6 +1,6 @@
 # Project page created to help manage the suite of investments associated with the Optics Strategic Initiative (OSI).
 
-![OSI Badge](https://github.com/user-attachments/assets/00c64d69-0e4e-40c9-9c56-f7ce1a66bca3)
+!                                       [OSI Badge](https://github.com/user-attachments/assets/00c64d69-0e4e-40c9-9c56-f7ce1a66bca3)
 
 ## OSI Working Group Members:  Matthew Campbell - SEFSC (SI lead), Erin Moreland - AFSC,  Thomas Oliver - PIFSC, Kresimir Williams - AFSC, Jennifer Fisher - NWFSC, Christian Reiss - SWFSC, Peter Chase - NEFSC, Elizabeth Clarke - NWFSC, Ben Richards - PIFSC, Derek Bolser - S&T
 
