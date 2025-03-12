@@ -16,10 +16,6 @@ OSI envisions a transformative suite of products that enable end-to-end automati
 
 
 # Instructions
-1) Update your `README.md` file to include the disclaimer and a license. See below for a description of licenses.
-2) Include an “about” statement in each repository to make it clear what the purpose of the repository is.
-3) Add [topics](https://docs.github.com/en/enterprise-cloud@latest/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/classifying-your-repository-with-topics) to help users find repositories.
-4) [Add a license](https://docs.github.com/en/enterprise-cloud@latest/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). **This is a MUST for public repositories.** If you are migrating a private repository, it is strongly advised to add a license but not required. Work written by For work  produced by U.S. government employees, we are required to use an [open source license](https://opensource.org/license). If contributors other than FTEs wrote code and the repository does not yet have an open source license, make sure all parties agree before applying an open source license. For data/documentation, use [CC0](https://creativecommons.org/public-domain/cc0/). For code, common choices include [Apache 2.0](https://opensource.org/license/apache-2-0) and [MIT](https://opensource.org/license/mit).
 5) For private or internal repositories, add the file [`.github/workflows/secretSCAN.yml`](https://github.com/nmfs-ost/ost-template/blob/main/.github/workflows/secretScan.yml). This is a GitHub action that will check for token and keys that are accidentally committed to a repository.
 6) For public repositories, the `secretSCAN.yml` file is not needed. Instead, check that [GitHub secret scanning is enabled for the repository](https://docs.github.com/en/enterprise-cloud@latest/code-security/secret-scanning/configuring-secret-scanning-for-your-repositories#enabling-secret-scanning-alerts-for-users).
 
