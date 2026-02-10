@@ -5,7 +5,7 @@ Matthew Campbell - SEFSC (SI lead), Erin Moreland - AFSC,  Thomas Oliver - PIFSC
 
 Vision: The Optics Strategic Initiative (OSI) envisions fostering a transformative shift in the National Marine Fisheries Service's (NMFS) approach to optical data collection and processing, reshaping the landscape of resource management and environmental stewardship. We aim to catalyze the transition from traditional ship-based and aerial surveys to platform-agnostic, scalable automated systems, thereby enriching the value and applicability of optics. This journey involves investment in the development of low-cost acquisition hardware, AI-bearing payloads and Uncrewed Systems (UxS), machine learning-assisted image processing, and hybrid cloud processing. Striving to equalize access to these tools across diverse regions, our endeavor is to establish efficient, accessible, and smart optical data acquisition and analysis pipelines, capable of swiftly transforming vast volumes of data into accurate, management-relevant products. In a world grappling with climate change and resource scarcity, the OSI stands at the forefront of NOAA's commitment to a resilient Blue Economy and a Climate Ready Nation.  
 
-![OSI Badge](https://github.com/user-attachments/assets/ca2a5e26-1b7e-45e7-a8ab-efae701b8cce)
+![OSI Badge]([[https://github.com/user-attachments/assets/ca2a5e26-1b7e-45e7-a8ab-efae701b8cce](https://github.com/nmfs-ost/Optics-SI-Main/blob/main/Images/OPTICS_SI_LOGO_DRAFT_bgt.png)](https://github.com/nmfs-ost/Optics-SI-Main/blob/main/Images/OPTICS_SI_LOGO_DRAFT_bgt.png))
 
 
 
